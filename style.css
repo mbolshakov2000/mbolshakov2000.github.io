@@ -1,0 +1,33 @@
+@media (max-width: 600px)
+{
+    h1{
+        font-size: 20px;
+    }
+}
+nav
+{
+    background-color: lightskyblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+#logo
+{
+    float:left;
+    width:95px;
+    height:95px;
+}
+header, footer, .rec{
+background-color: lightskyblue;
+}
+body{
+    background-color: lightblue;
+}
+.kard{
+    background-color: lightskyblue;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+#rekl{
+    background-color: lightskyblue;
+    border-collapse: collapse;
+}
