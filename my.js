@@ -51,7 +51,7 @@ function updatePrice() {
   if (select.value == "3")
   price=price-buf2;
 
-  let num=document.getElementById("numofclass").value;
+  let num=document.getElementById("count").value;
   if (typeof num==='undefined') num=0;
   price*=num;
 
